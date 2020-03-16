@@ -10,3 +10,5 @@ Project 3 - AML_Project3_CIFAR_10.ipynb
     One negative feature of colab is, once you get disconnected, you have to run all the previous cells again which consumes significant amount of time.
 
 Project 4 - AML_Project4_PM2.5.ipynb
+
+Project 5 - AML_Project5_Diabetes.ipynb
