@@ -14,3 +14,5 @@ Project 4 - AML_Project4_PM2.5.ipynb
 Project 5 - AML_Project5_Diabetes.ipynb
 
 Project 6 - AML_Project6_KMean_Clustering.ipynb
+
+Project 7 - 
