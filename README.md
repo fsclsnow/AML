@@ -1,4 +1,4 @@
-# AML - SJU CSC685 2020 Spring
+# Advanced Machine Learning Projects
 Project 1 - ML_P1_Wine.ipynb
 
 Project 2 - AML_Project2.ipynb
