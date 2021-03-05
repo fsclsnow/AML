@@ -16,5 +16,5 @@ Project 5 - AML_Project5_Diabetes.ipynb
 Project 6 - AML_Project6_KMean_Clustering.ipynb
 
 Project 7 - Project7_CNN_Team2.ipynb
-
             Project7_ANN_Team2.ipynb
+
